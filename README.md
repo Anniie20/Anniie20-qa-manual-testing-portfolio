@@ -1,6 +1,7 @@
 # QA Manual Testing Portfolio
 
-I am a Junior QA Manual Tester in traning 
+I am a Junior QA Manual Tester in traning. 
+
 This portfolio demonstrates practical experience in manual testing, including test planning, test case design, exploratory testing, and bug reporting.
 
 ## Skills
